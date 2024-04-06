@@ -16,22 +16,15 @@ Studying data science at BYU-I.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Data Analysis, Data Visualization
 
 ## Education
 
 `Fall 2018 - Spring 2019`
 __Boise State University__
 
-`Winter 2022 - now`
+`Winter 2022 - present`
 __Brigham Young University - Idaho__
-
 
 
 ## Awards
@@ -40,17 +33,9 @@ __Brigham Young University - Idaho__
 Eagle Scout Rank - Boy Scouts of America
 
 
-
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+No current data science work experience.
 
 
 
